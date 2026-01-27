@@ -22,3 +22,7 @@ Aplicación web interactiva construida con Streamlit para explorar un conjunto d
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## Aplicación en línea
+
+https://dashboard-vehicles-project.onrender.com
