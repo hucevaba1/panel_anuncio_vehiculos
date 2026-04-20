@@ -1,3 +1,6 @@
+Autor: **Hugo Vargas**
+Contacto: **hu.ce.va.ba@gmail.com**
+
 # Panel de Anuncios de Vehículos
 
 Aplicación web interactiva construida con Streamlit para explorar un conjunto de datos de anuncios de venta de vehículos en Estados Unidos.
