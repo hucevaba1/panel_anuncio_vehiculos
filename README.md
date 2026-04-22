@@ -6,7 +6,7 @@ Contacto: **hu.ce.va.ba@gmail.com**
 Aplicación web interactiva construida con Streamlit para explorar un conjunto de datos de anuncios de venta de vehículos en Estados Unidos.
 
 ## Funcionalidad
-
+Este proyecto permite ejecutar: 
 - Visualización de datos en tabla.
 - Filtro por rango de año del modelo.
 - Filtro por tipo de vehículo.
