@@ -5,6 +5,7 @@ Contacto: **hu.ce.va.ba@gmail.com**
 👉 **https://dashboard-vehicles-project.onrender.com**  
 
 Aplicación web interactiva construida con Streamlit para explorar un conjunto de datos de anuncios de venta de vehículos en Estados Unidos.
+![Project Preview](https://github.com/hucevaba1/panel_anuncio_vehiculos/blob/main/front)
 
 ## Funcionalidad
 Este proyecto permite ejecutar: 
